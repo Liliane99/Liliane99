@@ -1,23 +1,25 @@
-#Hi there 👋
-Je suis Liliane Mezani, une développeuse web passionnée par la création de solutions performantes et évolutives. 🌟
+## Hi there 👋
 
-##🚀 Current focus
-🔭 Je suis actuellement développeuse web avec une expertise en Node.js, NestJS, Express, Next.js, React, Vue.js, et Symfony.
-🌱 En ce moment, je me concentre sur l’approfondissement de mes compétences en NestJS et Clean Architecture.
-🧑‍💻 J'aime travailler sur des architectures robustes et maintenir un code propre et modulaire grâce à des pratiques comme la Clean Architecture et l’utilisation des Design Patterns.
+Je suis **Liliane Mezani**, une développeuse web passionnée par la création de solutions performantes et évolutives. 🌟
 
-##💡 My expertise
-Développement backend avec Node.js, NestJS, Express.
-Frontend avec React, Next.js, Vue.js.
-Mise en œuvre de bonnes pratiques de développement comme la Clean Architecture, UML, et les Design Patterns.
-Conception d'applications web évolutives et maintenables.
-Expertise dans les frameworks et technologies permettant de créer des applications performantes et sécurisées.
+### 🚀 Current focus
+- 🔭 Je suis actuellement développeuse web avec une expertise en **Node.js**, **NestJS**, **Express**, **Next.js**, **React**, **Vue.js**, et **Symfony**.
+- 🌱 En ce moment, je me concentre sur l’approfondissement de mes compétences en **NestJS** et **Clean Architecture**.
+- 🧑‍💻 J'aime travailler sur des architectures robustes et maintenir un code propre et modulaire grâce à des pratiques comme la **Clean Architecture** et l’utilisation des **Design Patterns**.
 
-##💬 Ask me about...
-Architecture logicielle (Clean Architecture, DDD, etc.)
-Développement backend et frontend avec NestJS, Express, React, Vue.js
-Meilleures pratiques en développement (code clean, design patterns, tests, etc.)
+### 💡 My expertise
+- Développement backend avec **Node.js**, **NestJS**, **Express**.
+- Frontend avec **React**, **Next.js**, **Vue.js**.
+- Mise en œuvre de bonnes pratiques de développement comme la **Clean Architecture**, **UML**, et les **Design Patterns**.
+- Conception d'applications web évolutives et maintenables.
+- Expertise dans les frameworks et technologies permettant de créer des applications performantes et sécurisées.
 
-##📫 How to reach me
-LinkedIn : liliane-mezani
-Email : [lilianemezani@gmail.com] 
+### 💬 Ask me about...
+- Architecture logicielle (Clean Architecture, DDD, etc.)
+- Développement backend et frontend avec **NestJS**, **Express**, **React**, **Vue.js**
+- Meilleures pratiques en développement (code clean, design patterns, tests, etc.)
+
+### 📫 How to reach me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/liliane-mezani)  
+[![Email Badge](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilianemezani@gmail.com)
