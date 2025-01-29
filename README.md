@@ -1,16 +1,23 @@
-## Hi there 👋
+#Hi there 👋
+Je suis Liliane Mezani, une développeuse web passionnée par la création de solutions performantes et évolutives. 🌟
 
-<!--
-**Liliane99/Liliane99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🚀 Current focus
+🔭 Je suis actuellement développeuse web avec une expertise en Node.js, NestJS, Express, Next.js, React, Vue.js, et Symfony.
+🌱 En ce moment, je me concentre sur l’approfondissement de mes compétences en NestJS et Clean Architecture.
+🧑‍💻 J'aime travailler sur des architectures robustes et maintenir un code propre et modulaire grâce à des pratiques comme la Clean Architecture et l’utilisation des Design Patterns.
 
-Here are some ideas to get you started:
+##💡 My expertise
+Développement backend avec Node.js, NestJS, Express.
+Frontend avec React, Next.js, Vue.js.
+Mise en œuvre de bonnes pratiques de développement comme la Clean Architecture, UML, et les Design Patterns.
+Conception d'applications web évolutives et maintenables.
+Expertise dans les frameworks et technologies permettant de créer des applications performantes et sécurisées.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##💬 Ask me about...
+Architecture logicielle (Clean Architecture, DDD, etc.)
+Développement backend et frontend avec NestJS, Express, React, Vue.js
+Meilleures pratiques en développement (code clean, design patterns, tests, etc.)
+
+##📫 How to reach me
+LinkedIn : liliane-mezani
+Email : [lilianemezani@gmail.com] 
